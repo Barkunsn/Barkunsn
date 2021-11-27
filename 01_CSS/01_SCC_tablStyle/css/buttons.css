@@ -1,0 +1,19 @@
+
+.button_left {
+    text-align: left;
+    width: 33%
+}
+
+.button_up {
+    text-align: center;
+    width: 33%
+}
+
+.button_right {
+    text-align: right;
+    width: 33%
+}
+
+.button_button {
+    display: flex;
+}

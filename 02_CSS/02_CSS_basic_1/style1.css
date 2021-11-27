@@ -1,0 +1,47 @@
+.threeSpades {
+    width: 140px;
+    height: 190px;
+    background-image: url("cards.png");
+    background-position: 0px -200px;
+    position: absolute;
+  top: 0px;
+  left: 0px;;
+}
+.ladySpades {
+    width: 140px;
+    height: 190px;
+    background-image: url("cards.png");
+    background-position: 0px -1790px;  
+    position: absolute;
+  top: 0px;
+  left: 70px;;
+}
+.nineDiamonds {
+    width: 140px;
+    height: 190px;
+    background-image: url("cards.png");
+    background-position: -285px -1390px;  
+    position: absolute;
+  top: 0px;
+  left: 140px;;
+
+}
+.aceClubs {
+    width: 140px;
+    height: 190px;
+    background-image: url("cards.png");
+    background-position: -140px -2185px; 
+    position: absolute;
+    top: 0px;
+    left: 210px;;
+  
+}
+.joker {
+    width: 140px;
+    height: 190px;
+    background-image: url("cards.png");
+    background-position: 0px -2385px; 
+    position: absolute;
+    top: 0px;
+    left: 280px;;  
+}

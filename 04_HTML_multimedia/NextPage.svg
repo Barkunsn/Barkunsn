@@ -1,0 +1,12 @@
+<svg width="120.00000000000001" height="60.00000000000001" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <text fill="#FFE7A2" stroke-width="0" x="337.03419" y="247.08972" id="svg_2" font-size="24" font-family="'Arimo'" text-anchor="start" xml:space="preserve" stroke="#000" transform="matrix(0.966672 0 0 1.03202 -54.8876 -5.86839)">На следующую страницу</text>
+  <path opacity="0.3" stroke="#000" id="svg_1" d="m547.54453,257.69475l22.39618,-16.22403l-22.39618,-16.22414l12.80055,-9.2719l35.19945,25.49604l-35.19945,25.50395" stroke-width="0" fill="#4D2425"/>
+  <path stroke="#000" id="svg_3" d="m572.37955,238.48451l3.73267,-1.27247l-3.73267,-1.27248l2.13341,-0.72721l5.86653,1.99968l-5.86653,2.0003" stroke-width="0" fill="#FFE7A2"/>
+  <ellipse stroke="#7AD6CA" fill="#7AD6CA" cx="59.93735" cy="30.07631" id="svg_4" rx="59.8957" ry="29.85407"/>
+  <text xml:space="preserve" text-anchor="start" font-family="'Tourney'" font-size="12" stroke-width="0" id="svg_5" y="31.77806" x="20.72259" stroke="#7AD6CA" fill="#894F3F">Next page</text>
+  <path stroke="#7AD6CA" id="svg_6" d="m94.34048,35.4313l9.72061,-7.31675l-9.72061,-7.3168l5.55582,-4.18147l15.2776,11.49827l-15.2776,11.50184" fill="#894F3F"/>
+ </g>
+
+</svg>
