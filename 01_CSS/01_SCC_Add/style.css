@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Bad Script'; /* Имя шрифта */
+    src: url(Bad_Script/BadScript-Regular.ttf); /* Путь к файлу со шрифтом */
+   }
+   div {
+    font-family: 'Bad Script', cursive;  
+}
+h3 {
+    text-align: right;
+}
+h4{
+    text-indent: 1.5em;
+}
+P { 
+    text-indent: 1.5em;
+}
+.text_right {
+    text-align: right;
+}
+#underline  {
+    text-decoration: underline;
+}

@@ -1,0 +1,16 @@
+.I {
+    list-style-type: upper-roman;
+}
+.i {
+    list-style-type:   lower-roman;
+}
+.cont {
+    width: 400px;
+    background-color:black;
+    color:green;
+    font-family:Lucida;
+    font-size: 10pt;
+    box-sizing: border-box;
+    padding: 10px 0px; 
+
+}

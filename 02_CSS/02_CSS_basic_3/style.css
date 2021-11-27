@@ -1,0 +1,32 @@
+.commonDiv {
+    background-color:rgb(248, 167, 167);  
+    border: 10px solid rgb(3, 122, 96);
+}
+
+.navi {
+    width: 15em;
+    background-color:grey;
+    float: left;
+}
+
+.article {
+    background-color:rgb(248, 206, 206);
+    margin-left: 15em;
+    margin-bottom: 2em;
+}
+
+.basement {
+    background-color:rgb(176, 247, 208);
+}
+.article2 {
+    float: left;  
+}
+
+img {
+    display: block;
+    width: 100px; 
+    padding-top: 10em;
+    padding-left:20em;
+    padding-bottom: 2em; 
+}
+
