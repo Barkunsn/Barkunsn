@@ -1,0 +1,20 @@
+div {
+    padding: 2em;
+    width: 55%;
+    background: 
+    url("frame/b-r.gif") no-repeat bottom right,
+    url("frame/b-l.gif")  no-repeat bottom left,
+    url("frame/t-l.gif") no-repeat  top left,
+    url("frame/t-r.gif") no-repeat top right,
+    url("frame/l.gif") repeat-y left,
+    url("frame/r.gif") repeat-y right,
+    url("frame/t.gif") repeat-x top,
+    url("frame/b.gif") repeat-x bottom rgb(18, 13, 39);
+}
+
+P { 
+    text-indent: 2em; 
+    text-align: justify;
+    color: rgb(239, 237, 241);
+}
+ 

@@ -18,15 +18,11 @@
 .basement {
     background-color:rgb(176, 247, 208);
 }
-.article2 {
-    float: left;  
-}
 
 img {
-    display: block;
     width: 100px; 
-    padding-top: 10em;
-    padding-left:20em;
-    padding-bottom: 2em; 
+    float: right;
 }
-
+.spacer {
+        clear: both;
+}

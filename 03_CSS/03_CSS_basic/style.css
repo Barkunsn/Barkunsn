@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.MenuLevel1 {
+    display: flex;
+    margin: 10px 10px;
+}
+.MenuLevel1 > div { 
+    background-color: yellow; 
+    border: solid blue 10px; 
+    position: relative; 
+    cursor: pointer;
+    flex: 10 10 auto;
+    margin: 10px 10px;
+    text-align: center; 
+}
+
+.MenuLevel2 { 
+    width: 80px; 
+    display: none; 
+}
+
+.MenuLevel2 > div { 
+    background-color: cyan; border: solid blue 1px; cursor: pointer 
+}
+
+.MenuLevel1 > div:hover div.MenuLevel2 { 
+    display: block; position: absolute; left: 50%; top: 90%; z-index: 1 
+}
+@media all and (max-width: 750px) {
+    
+    .MenuLevel1 {
+        display: flex;
+        flex-direction: column;
+        width: 200px;
+        margin: 10px 10px;
+        
+    }
+    .MenuLevel1 > div { 
+        background-color: rgb(115, 3, 243); 
+        border: solid rgb(111, 235, 11) 10px; 
+        position: relative; 
+        cursor: pointer;
+        flex: 10 10 auto;
+        margin: 10px 10px;
+        text-align: center; 
+    }
+    
+    .MenuLevel2 { 
+        width: 80px; 
+        display: none;        
+    }
+    
+    .MenuLevel2 > div { 
+        background-color: cyan; border: solid blue 1px; cursor: pointer;
+    }
+    
+    .MenuLevel1 > div:hover div.MenuLevel2 { 
+        display: block; position: absolute; left: 105%; top: 10%; z-index: 1 
+    }
+}

@@ -1,0 +1,42 @@
+div {
+    padding: 2em;
+    width: 55%;
+    background-color: rgb(4, 88, 72);
+       
+    background-image: 
+    url("frame/b-r.gif"), 
+    url("frame/b-l.gif"), 
+    url("frame/t-l.gif"), 
+    url("frame/t-r.gif"),
+    url("frame/l.gif"),
+    url("frame/r.gif"),
+    url("frame/t.gif"),
+    url("frame/b.gif");
+
+    background-repeat: 
+    no-repeat,
+    no-repeat,
+    no-repeat,
+    no-repeat,
+    repeat-y,
+    repeat-y,
+    repeat-x,
+    repeat-x;
+
+    background-position: 
+    bottom right,
+    bottom left,
+    top left,
+    top right,
+    left,
+    right,
+    top,
+    bottom;
+}
+
+P { 
+    text-indent: 2em; 
+    text-align: justify;
+    color: rgb(239, 237, 241);
+}
+ 

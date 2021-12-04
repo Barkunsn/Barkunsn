@@ -1,0 +1,52 @@
+.div1 {
+    width: 55%;
+   /* background-color: rgb(18, 13, 39);*/
+    background: 
+    url("frame/l.gif") repeat-y left rgb(77, 2, 2);
+}
+
+.div2 {
+     background: 
+     url("frame/t.gif") repeat-x top;
+}
+
+.div3 {
+    background: 
+    url("frame/r.gif") repeat-y right;
+}
+
+.div4 {
+    background: 
+    url("frame/b.gif") repeat-x bottom;
+}
+
+.div5 {
+    background: 
+    url("frame/t-l.gif") no-repeat  top left;
+}
+
+.div6 {
+    background: 
+    url("frame/t-r.gif") no-repeat top right;
+}
+
+.div7 {
+    background: 
+    url("frame/b-l.gif")  no-repeat bottom left;
+}
+
+.div8 {
+    background: 
+    url("frame/b-r.gif") no-repeat bottom right;
+}
+
+.div9 {
+    padding: 2em;
+}
+
+P { 
+    text-indent: 2em; 
+    text-align: justify;
+    color: rgb(239, 237, 241);
+}
+ 
