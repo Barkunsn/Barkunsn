@@ -1,0 +1,41 @@
+table {
+    border-collapse: collapse; 
+   } 
+caption {
+    caption-side: bottom;
+}
+  
+th, td {
+    border:2px dotted grey;
+    padding: 2px;
+    border-left: none;
+}
+
+.tr1 th {
+    border-top: none;
+    border-bottom: none;
+}
+
+.tr2 th {
+    border-top: none; 
+}
+
+.tr2 td {
+    border-top: none; 
+}
+ 
+.t_no {
+    border-right: none;  
+ }
+
+ .tr1 {
+    background-color: rgb(119, 153, 139);
+    
+ }
+ .tr3, .tr5 {
+    background-color: rgb(184, 179, 179);   
+ }
+
+.tb :hover {
+    background-color: rgb(21, 255, 0);
+}

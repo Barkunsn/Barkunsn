@@ -1,0 +1,40 @@
+.frame {
+    border: solid grey 1px;
+    border-radius: 0 10px;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+span {
+    text-indent: 1.5em;
+    text-align: justify;
+    padding: 10px;
+    padding-right: 0px;
+}
+
+
+.files_img{
+    display:none;
+}
+.list_of_files:hover .files_img{
+    display: block;
+    position: relative;
+    top: -15px;
+    left: 170px;
+}
+
+.link, .link1 {
+    display: inline-block;
+}
+
+.link :hover {
+    display: block;
+    background-image: url(link_back.png);
+    padding: 15px;
+}
+
+.link1 :hover {
+    display: block;
+    background-image: url(link_back.png);
+    padding: auto;
+}
